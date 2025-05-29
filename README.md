@@ -1,2 +1,2 @@
 # CP
-My leetocde strides
+My leetcode strides

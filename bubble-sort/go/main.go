@@ -16,6 +16,6 @@ func bubble_sort(arr []int) []int {
 }
 
 func main() {
-	a := []int{3, 30, 6, 45, 9, 100}
+	a := []int{3, 30, 6, 45, 9, 1}
 	fmt.Printf("%+v\n", bubble_sort(a))
 }

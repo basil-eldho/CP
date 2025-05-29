@@ -1,0 +1,27 @@
+# C/C++ build files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.dylib
+
+# CMake and Make build directories
+/build/
+/bin/
+/lib/
+/CMakeFiles/
+/cmake-build-*/
+
+# Rust build files
+/target/
+
+# Rustc direct build output
+main
+
+# Go build files
+/bin/
+/pkg/
+*.exe
