@@ -1,7 +1,7 @@
 # 🚀 LeetCode Progress
 
-![](https://img.shields.io/badge/Problems%20Solved-8-brightgreen?style=for-the-badge)
-![](https://img.shields.io/badge/Easy-4-5cb85c?style=for-the-badge)
+![](https://img.shields.io/badge/Problems%20Solved-9-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/Easy-5-5cb85c?style=for-the-badge)
 ![](https://img.shields.io/badge/Medium-4-f0ad4e?style=for-the-badge)
 ![](https://img.shields.io/badge/Hard-0-d9534f?style=for-the-badge)
 
@@ -19,6 +19,7 @@ My journey through LeetCode problems, automatically synced from my submissions.
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./2-add-two-numbers/add-two-numbers.cpp) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./49-group-anagrams/group-anagrams.cpp) |
+| 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | ![Easy](https://img.shields.io/badge/Easy-5cb85c) | [C++](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | ![Easy](https://img.shields.io/badge/Easy-5cb85c) | [C++](./125-valid-palindrome/valid-palindrome.cpp) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | ![Easy](https://img.shields.io/badge/Easy-5cb85c) | [C++](./217-contains-duplicate/contains-duplicate.cpp) |
 | 238 | [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./238-product-of-array-except-self/product-of-array-except-self.cpp) |
@@ -29,7 +30,7 @@ My journey through LeetCode problems, automatically synced from my submissions.
 ## 🎯 Problem Distribution
 
 ```
-Easy:     ████░░░░░░ 4
+Easy:     █████░░░░░ 5
 Medium:   ████░░░░░░ 4
 Hard:     ░░░░░░░░░░ 0
 ```
@@ -38,9 +39,9 @@ Hard:     ░░░░░░░░░░ 0
 
 ## 📈 Stats
 
-- **Total Problems Solved**: 8
+- **Total Problems Solved**: 9
 - **Languages Used**: C++
-- **Last Updated**: December 19, 2025
+- **Last Updated**: December 20, 2025
 
 ---
 
