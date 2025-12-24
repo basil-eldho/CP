@@ -1,8 +1,8 @@
 # 🚀 LeetCode Progress
 
-![](https://img.shields.io/badge/Problems%20Solved-10-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/Problems%20Solved-11-brightgreen?style=for-the-badge)
 ![](https://img.shields.io/badge/Easy-5-5cb85c?style=for-the-badge)
-![](https://img.shields.io/badge/Medium-5-f0ad4e?style=for-the-badge)
+![](https://img.shields.io/badge/Medium-6-f0ad4e?style=for-the-badge)
 ![](https://img.shields.io/badge/Hard-0-d9534f?style=for-the-badge)
 
 ## 📊 Progress Overview
@@ -22,6 +22,7 @@ My journey through LeetCode problems, automatically synced from my submissions.
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./53-maximum-subarray/maximum-subarray.cpp) |
 | 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | ![Easy](https://img.shields.io/badge/Easy-5cb85c) | [C++](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | ![Easy](https://img.shields.io/badge/Easy-5cb85c) | [C++](./125-valid-palindrome/valid-palindrome.cpp) |
+| 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./128-longest-consecutive-sequence/longest-consecutive-sequence.cpp) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | ![Easy](https://img.shields.io/badge/Easy-5cb85c) | [C++](./217-contains-duplicate/contains-duplicate.cpp) |
 | 238 | [Product Of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./238-product-of-array-except-self/product-of-array-except-self.cpp) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | ![Easy](https://img.shields.io/badge/Easy-5cb85c) | [C++](./242-valid-anagram/valid-anagram.cpp) |
@@ -32,7 +33,7 @@ My journey through LeetCode problems, automatically synced from my submissions.
 
 ```
 Easy:     █████░░░░░ 5
-Medium:   █████░░░░░ 5
+Medium:   ██████░░░░ 6
 Hard:     ░░░░░░░░░░ 0
 ```
 
@@ -40,7 +41,7 @@ Hard:     ░░░░░░░░░░ 0
 
 ## 📈 Stats
 
-- **Total Problems Solved**: 10
+- **Total Problems Solved**: 11
 - **Languages Used**: C++
 - **Last Updated**: December 24, 2025
 
