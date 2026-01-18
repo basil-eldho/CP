@@ -1,8 +1,8 @@
 # 🚀 LeetCode Progress
 
-![](https://img.shields.io/badge/Problems%20Solved-12-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/Problems%20Solved-13-brightgreen?style=for-the-badge)
 ![](https://img.shields.io/badge/Easy-5-5cb85c?style=for-the-badge)
-![](https://img.shields.io/badge/Medium-6-f0ad4e?style=for-the-badge)
+![](https://img.shields.io/badge/Medium-7-f0ad4e?style=for-the-badge)
 ![](https://img.shields.io/badge/Hard-1-d9534f?style=for-the-badge)
 
 ## 📊 Progress Overview
@@ -19,6 +19,7 @@ My journey through LeetCode problems, automatically synced from my submissions.
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./2-add-two-numbers/add-two-numbers.cpp) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./3-longest-substring-without-repeating-characters/longest-substring-without-repeating-characters.cpp) |
 | 4 | [Median Of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | ![Hard](https://img.shields.io/badge/Hard-d9534f) | [C++](./4-median-of-two-sorted-arrays/median-of-two-sorted-arrays.cpp) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./5-longest-palindromic-substring/longest-palindromic-substring.cpp) |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./49-group-anagrams/group-anagrams.cpp) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | ![Medium](https://img.shields.io/badge/Medium-f0ad4e) | [C++](./53-maximum-subarray/maximum-subarray.cpp) |
 | 121 | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | ![Easy](https://img.shields.io/badge/Easy-5cb85c) | [C++](./121-best-time-to-buy-and-sell-stock/best-time-to-buy-and-sell-stock.cpp) |
@@ -34,7 +35,7 @@ My journey through LeetCode problems, automatically synced from my submissions.
 
 ```
 Easy:     █████░░░░░ 5
-Medium:   ██████░░░░ 6
+Medium:   ███████░░░ 7
 Hard:     █░░░░░░░░░ 1
 ```
 
@@ -42,7 +43,7 @@ Hard:     █░░░░░░░░░ 1
 
 ## 📈 Stats
 
-- **Total Problems Solved**: 12
+- **Total Problems Solved**: 13
 - **Languages Used**: C++
 - **Last Updated**: January 18, 2026
 
